@@ -1,4 +1,4 @@
-# 🎮 Video Game Sales Analysis – Integrated Project
+# 🎮 Video Game Sales Analysis 
 
 ## 📁 Project Summary
 
